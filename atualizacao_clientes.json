@@ -1,0 +1,53 @@
+[
+    {
+        "id": "UFPR-56862426745",
+        "agrupador": "UFPR",
+        "tipoPessoa": "FISICA",
+        "nome": "C\u00c3\u00a9sar Roberto Castro",
+        "cpf": "56862426745",
+        "dataNascimento": "1988-01-09",
+        "tipo": "A",
+        "enderecos": [
+            {
+                "cep": "86191-470",
+                "logradouro": "Rua Reinaldo Resquetti",
+                "bairro": "Jardim Boa Vista",
+                "cidade": "Camb\u00c3\u00a9",
+                "numero": 165,
+                "uf": "PR"
+            }
+        ],
+        "emails": [
+            {
+                "email": "cesar-castro95@vectrausinagem.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "43",
+                "telefone": "992311491"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "56862426745"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "706162"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "C\u00c3\u00a9sar Roberto Castro"
+            }
+        ]
+    }
+]
